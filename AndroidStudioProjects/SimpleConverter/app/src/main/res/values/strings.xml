@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Converter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_edittext_enteranumber">Enter a number</string>
+    <string name="btn_c2f">°C to °F</string>
+    <string name="btn_f2c">°F to °C</string>
+    <string name="text_textview_result">Result:</string>
+</resources>
